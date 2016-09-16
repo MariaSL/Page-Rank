@@ -4,7 +4,7 @@
 The project I did for my Information Retrieval course. This project is solely for sharing my implementation, not for further development.
 
 ## Description ##
-Implementation of PageRank algorithm using the flights data from http://www.openflights.org
+Implementation of PageRank algorithm using the flights data from http://www.openflights.org.
 The algorithm calculates the PageRank value for each airport in the input data and returns the TOP-15 most popular airports.
 
 ## Data ##
